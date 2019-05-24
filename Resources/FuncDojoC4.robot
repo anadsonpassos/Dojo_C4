@@ -8,7 +8,7 @@ ${ProdutoNotebook}      Notebook Dell
 ${MeuUsuario}       O seu carrinho ainda está vazio.
 ${MsgProdutoCarrinho}       Importante: Ao adicionar um produto no carrinho, você não garante a reserva dele
 ${MsgNavegacao}        Tem muito o que ver por aqui é só escolher por onde começar.
-${MsgProdutoNaoCarrinho}        O seu carrinho ainda está vazio.vg
+${MsgProdutoNaoCarrinho}        O seu carrinho ainda está vazio.
 
 *** Keywords ***
 ###CENARIO 1: Colocar no carrinho de compras um notebook da marca DELL, que tenha a opção do Click e retire. (Confira!)
