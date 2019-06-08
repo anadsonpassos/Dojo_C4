@@ -1,4 +1,4 @@
-Documentation       Acesso ao Site Carrefour com seu login valido
+Documentation       Acesso ao Site Carrefour com login valido (Dojo Carrefour).
 
 *** Settings ***
 Library     SeleniumLibrary
