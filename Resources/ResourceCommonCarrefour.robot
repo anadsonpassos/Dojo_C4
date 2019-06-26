@@ -7,7 +7,7 @@ Library     SeleniumLibrary
 ${BROWSER}      Chrome
 ${DELAY}        10 seconds
 ${EMAIL}     anadson_silva@carrefour.com
-${PASSWORD}     C@rr3four007
+${PASSWORD}     xxxxxxxx
 ${LOGIN URL}        https://preprod.carrefour.com.br/login
 ${AcessoLogin}      Entrar na minha conta
 ${TituloPagina}     Carrinho
